@@ -4,9 +4,9 @@ image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 
 # UI configs
-title: "Megan KO Art"
+title: "MKO Art"
 subtitle: ""
-author: "Megan O'Doherty"
+author: "M. K. O'Doherty"
 header:
  title: "Art"
  subtitle: "by Megan O'Doherty"
@@ -16,9 +16,9 @@ footer:
  github: "<a href=\"https://github.com/ramswaroop/photography\"></a>"
 web_design: ""
 social_urls:
-  facebook: ""
-  twitter: ""
-  instagram: ""
-  dribbble: ""
-  linkedin: ""
-  github: ""
+ facebook: ""
+ twitter: ""
+ instagram: ""
+ dribbble: ""
+ linkedin: ""
+ github: ""
